@@ -819,7 +819,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .swiper-slide img {
-  opacity: 0.5;
+  
   transition: 0.3s;
 }
 
@@ -1403,7 +1403,7 @@ section {
 
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
-  height: 350px;
+  height: 300px;
   width: 100%;
 }
 
